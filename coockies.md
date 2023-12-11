@@ -16,8 +16,6 @@ Cookies sind kleine Textdateien auf deinem Gerät. Manche sind nur temporär, an
  Datenschutz und Cookie-Hinweise:
 Cookie-Hinweise haben mit Datenschutz zu tun, weil Cookies persönliche Daten sammeln können. Wenn sie zugelassen sind, sind deine persönlichen Daten weniger geschützt.
 
- Ändern deiner Meinung zu Cookies:
-   u kannst deine Meinung ändern. Das geht in den Einstellungen deines Browsers, wo du Cookies löschen oder deine Zustimmung zurücknehmen kannst.
 
  Gesetze zum Datenschutz für Firmen:
    Es gibt Gesetze, zum Beispiel die Datenschutz-Grundverordnung. Als Informatiker musst du sicherstellen, dass Systeme den Gesetzen entsprechen.
