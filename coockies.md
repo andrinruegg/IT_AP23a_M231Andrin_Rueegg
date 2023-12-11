@@ -1,5 +1,4 @@
 
-Auftrag
  Verschiedene Sachen auf Webseiten:
   Bei Online-Shops kannst du entscheiden, ob du Werbe-Cookies zulassen willst, dann bekommt man spezielle Angebote.
  Auf ein paar webseiten kann man auch die cookies ablehnen.
